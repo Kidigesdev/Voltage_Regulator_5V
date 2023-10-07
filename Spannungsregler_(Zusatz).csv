@@ -1,0 +1,8 @@
+"ID";"Bezeichner";"Footprint";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"J2,J1";"TerminalBlock_Wuerth_691311400102_P7.62mm";2;"Screw_Terminal_01x02";;;
+2;"LM7805";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+3;"C2";"C_Disc_D5.0mm_W2.5mm_P2.50mm";1;"C2";;;
+4;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"R";;;
+5;"SW1";"SolderWire-1.5sqmm_1x02_P6mm_D1.7mm_OD3mm";1;"SW_DIP_x01";;;
+6;"D1";"LED_D5.0mm";1;"LED";;;
+7;"C1";"CP_Radial_D5.0mm_P2.50mm";1;"C_Polarized";;;
